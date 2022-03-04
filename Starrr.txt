@@ -1,0 +1,23 @@
+game.Players.LocalPlayer.DataFolder.Information.Crew.Value = "8068202"
+for count = 1, 50000 do
+	print(count)
+end
+game.Players.PlayerAdded:Connect(function(LocalPlayer)
+   if LocalPlayer:IsInGroup(8068202) then                    
+      print "Player is A Star"     
+   end
+end)
+game.Players.PlayerAdded:Connect(function(player)
+	if player:IsFriendsWith(8195210) then
+		print(player.Name .. " is friends with Benoxa")
+		player:IsFriendsWith("8195210")
+		for count = 1, 50000 do
+		     v:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[⭐]' .. game.Players[v.Name].DisplayName) 
+	print(count)
+game.Players.LocalPlayer.UserId = 88245038
+	    for count = 1, 50000 do
+	print(count)
+end
+end
+ end
+   end)
